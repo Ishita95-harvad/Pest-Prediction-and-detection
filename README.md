@@ -33,8 +33,4 @@ After that to validate our prediction we ask the farmer to upload a Photo of his
 ## Screenshots
 ![Irrigation level](irrigation.png)
 
-## Team Members
-* [Divyam Madaan](https://github.com/divyam3897)
-* [Radhika Dua](https://github.com/Radhikadua123)
-* [Hardik Aggarwal](https://github.com/haragg2)
-* [Aarush Gupta](https://github.com/aarush22)
+
